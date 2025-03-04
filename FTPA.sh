@@ -15,9 +15,9 @@ echo $YOURNAME
 #launch_qbit="flatpak run org.qbittorrent.qBittorrent"
 
 #Option2 NOT fltapak
-config_file="/home/$YOURNAME/.config/qBittorrent/qBittorrent.conf"
-kill_qbit="pkill qbittorrent"
-launch_qbit="qbittorrent"
+#config_file="/home/$YOURNAME/.config/qBittorrent/qBittorrent.conf"
+#kill_qbit="pkill qbittorrent"
+#launch_qbit="qbittorrent"
 #############################
 #############################
 # Wait for PIA client process to launch
